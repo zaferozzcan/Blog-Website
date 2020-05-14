@@ -14,7 +14,7 @@ A blog website app that one can compose new posts and share it as well as store 
 <ul>
   <h3> Understanding Templating vs.
 Layouts</h3>
-  <li> Creating Your First EJS Templates </li>
+  <li> Creating EJS Templates </li>
   <li> Running Code Inside the EJS
 Template </li>
   <li> Passing Data from Your Webpage
